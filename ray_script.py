@@ -1,6 +1,5 @@
 import ray
 import raydp
-from pyspark.sql import SparkSession
 import time
 
 # Initialize Ray
